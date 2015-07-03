@@ -1,0 +1,1 @@
+void* myfactory(char const* animalType, char const* animalName);
